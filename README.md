@@ -40,11 +40,11 @@
      <span><p>sharelicious is an online food delivery app that, in addition to offering the experience of ordering products, allows users to interact by viewing their profiles, obtain recommendations based on their latest orders, and follow each other. </p></span>
      
      
- - 🧟‍♂️ FIRST PROJECT [**Snow Game App**](https://github.com/SamyAliSanchez/snowGame)
+ - :bear: FIRST PROJECT [**Snow Game App**](https://github.com/SamyAliSanchez/snowGame)
 
      <span><p>HTML5 | CSS3 | JavaScript | Canvas</p></span>
      
-- :pizza: SECOND PROJECT [**IronFeeds**](https://github.com/IronFeeds/Ironfeeds)
+- :news: SECOND PROJECT [**IronFeeds**](https://github.com/IronFeeds/Ironfeeds)
  
      <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
  
