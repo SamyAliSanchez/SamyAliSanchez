@@ -44,7 +44,7 @@
 
      <span><p>HTML5 | CSS3 | JavaScript | Canvas</p></span>
      
-- :news: SECOND PROJECT [**IronFeeds**](https://github.com/IronFeeds/Ironfeeds)
+- :newspaper: SECOND PROJECT [**IronFeeds**](https://github.com/IronFeeds/Ironfeeds)
  
      <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
  
