@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/samy-ali-sanchez/)
+[![Linkedin Badge](https://img.shields.io/badge/-SamyAliSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samy-ali-sanchez/)](https://www.linkedin.com/in/samy-ali-sanchez/)
 [![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:samy.alisanchez91@gmail.com)
 
 <br>
@@ -30,7 +30,7 @@
 
 ## 💬 Projects I've worked recently:
 
-- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Re_educ**](https://ironhack-sharelicious-client.herokuapp.com/)
+- :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Sharelicious**](https://ironhack-sharelicious-client.herokuapp.com/)
 
      <span><p>Client: [sharelicious-client](https://github.com/SamyAliSanchez/Project3-client)</p></span>
      <span><p>Server: [sharelicious-server](https://github.com/SamyAliSanchez/Project3-server)</p></span>
