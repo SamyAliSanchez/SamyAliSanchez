@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-SamyAliSanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samy-ali-sanchez/)](https://www.linkedin.com/in/samy-ali-sanchez/)
-[![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:samy.alisanchez91@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-samy.alisanchez91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:samy.alisanchez91@gmail.com)
 
 <br>
 
