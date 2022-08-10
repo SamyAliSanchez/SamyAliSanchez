@@ -1,7 +1,5 @@
 ### Hi there! Welcome to my github profile:
 
-![portada_linkedin_isaac](https://user-images.githubusercontent.com/99484352/171173491-77575fef-70b5-47f5-b638-3c44463497ee.png)
-
 <h3 align="center">"...just finished a MERN bootcamp and I am ready to keep practicing all I have learned and beyond! ⚡"</h3>
 <hr>
 
