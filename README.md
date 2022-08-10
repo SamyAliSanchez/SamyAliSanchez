@@ -20,14 +20,13 @@
 
 ## :boom: What I am currently working on:
 
-- PERSONAL PORTFOLIO (https://github.com/Gao83/Portfolio-React)
+- PORTFOLIO (https://github.com/ironhack-web-1)
 
-  <span><p>React | HTML5 | CSS3 | Javascript</p></span>
+  <span><p> Vue.Js | HTML5 | CSS3 | Javascript</p></span>
   
-  <span><p>Back to the roots! Creating a personal porfolio focusing on styling and dynamism of the site. </p></span>
+  <span><p>Currently working as a teacher assistant: Students advisor, helping them into their integration and learning process. </p></span>
   
       
-
 ## 💬 Projects I've worked recently:
 
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Sharelicious**](https://ironhack-sharelicious-client.herokuapp.com/)
