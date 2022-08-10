@@ -20,7 +20,7 @@
 
 ## :boom: What I am currently working on:
 
-- PORTFOLIO (https://github.com/ironhack-web-1)
+- TEACHER ASSISTANT (https://github.com/ironhack-web-1)
 
   <span><p> Vue.Js | HTML5 | CSS3 | Javascript</p></span>
   
