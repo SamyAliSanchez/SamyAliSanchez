@@ -1,5 +1,7 @@
 ### Hi there! Welcome to my github profile:
 
+![portada_linkedin_isaac](https://user-images.githubusercontent.com/99484352/171173491-77575fef-70b5-47f5-b638-3c44463497ee.png)
+
 <h3 align="center">"...just finished a MERN bootcamp and I am ready to keep practicing all I have learned and beyond! ⚡"</h3>
 <hr>
 
@@ -12,9 +14,8 @@
 
 - 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/isaac-miralles/)
-[![Instagram Badge](https://img.shields.io/badge/-sakymr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sakymr/)](https://www.instagram.com/sakymr/)
-[![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:isaacmiralles@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-isaacmiralles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-miralles/)](https://www.linkedin.com/in/samy-ali-sanchez/)
+[![Gmail Badge](https://img.shields.io/badge/-isaacmiralles@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaacmiralles@gmail.com)](mailto:samy.alisanchez91@gmail.com)
 
 <br>
 
