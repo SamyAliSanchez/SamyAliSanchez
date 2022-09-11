@@ -22,7 +22,7 @@ Welcome to my github profile:
 
 ## :boom: What I am currently working on:
 
-- TEACHER ASSISTANT (https://github.com/ironhack-web-1)
+- FULL STACK TEACHER (https://github.com/ironhack-web-1)
 
   <span><p> Vue.Js | HTML5 | CSS3 | Javascript</p></span>
   
