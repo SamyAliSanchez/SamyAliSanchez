@@ -2,7 +2,7 @@
 
 Welcome to my github profile:
 
-<h3 Welcome to my github profile: ⚡"</h3>
+<h3 "Welcome to my github profile: ⚡"</h3>
 <hr>
 
 <br>
