@@ -22,11 +22,11 @@ Welcome to my github profile:
 
 ## :boom: What I am currently working on:
 
-- FULL STACK TEACHER (https://github.com/ironhack-web-1)
+- [Decahtlon Project](https://github.com/dktunited/ecommerce-front-united)
 
-  <span><p> Vue.Js | HTML5 | CSS3 | Javascript</p></span>
+  <span><p> React| Javascript | Jest | HTML5 | CSS3 </p></span>
   
-  <span><p>Currently working as a teacher assistant: Students advisor, helping them into their integration and learning process. </p></span>
+  <span><p> Analysing new features and developing the best solution for users in Decathlon website </p></span>
   
       
 ## 💬 Projects I've worked recently:
