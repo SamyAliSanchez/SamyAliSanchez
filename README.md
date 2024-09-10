@@ -2,7 +2,7 @@
 
 Welcome to my github profile:
 
-<h3 align="center">"...just finished a MERN bootcamp and I am ready to keep practicing all I have learned and beyond! ⚡"</h3>
+<h3 Welcome to my github profile: ⚡"</h3>
 <hr>
 
 <br>
