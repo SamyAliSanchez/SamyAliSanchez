@@ -22,7 +22,7 @@ Welcome to my github profile:
 
 ## :boom: What I am currently working on:
 
-- [Decahtlon Project](https://github.com/dktunited/ecommerce-front-united)
+- [Decahtlon Project](https://github.com/dktunited/ecommerce-front-united) && [Vitamin Play Project](https://github.com/dktunited/vitamin-play-web)
 
   <span><p> React| Javascript | Jest | HTML5 | CSS3 </p></span>
   
