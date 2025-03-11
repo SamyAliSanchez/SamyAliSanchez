@@ -46,7 +46,7 @@ Always eager to collaborate and share ideas—feel free to explore my work and r
 
 - [Decahtlon Project](https://github.com/dktunited/ecommerce-front-united) && [Vitamin Play Project - Decathlon Design System](https://github.com/dktunited/vitamin-play-web)
 
-  <span><p> React| Javascript | Jest | HTML5 | CSS3 </p></span>
+  <span><p> Javascript| React | Jest | HTML5 | CSS3 </p></span>
   
   <span><p> Analysing new features and developing the best solution for users in Decathlon website </p></span>
   
