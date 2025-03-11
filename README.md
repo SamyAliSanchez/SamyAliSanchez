@@ -60,10 +60,7 @@ Always eager to collaborate and share ideas—feel free to explore my work and r
      <span><p>Client: [sharelicious-client](https://github.com/SamyAliSanchez/Project3-client)</p></span>
      <span><p>Server: [sharelicious-server](https://github.com/SamyAliSanchez/Project3-server)</p></span>
      
-
      <span><p>React | React-bootstrap | HTML5 | CSS3 | Javascript | Express | Node.js | MongoDB | Mongoose | Stripe</p></span>
-      
-     <span><p>sharelicious is an online food delivery app that, in addition to offering the experience of ordering products, allows users to interact by viewing their profiles, obtain recommendations based on their latest orders, and follow each other. </p></span>
      
      
  - :bear: FIRST PROJECT [**Snow Game App**](https://github.com/SamyAliSanchez/snowGame)
@@ -73,6 +70,3 @@ Always eager to collaborate and share ideas—feel free to explore my work and r
 - :newspaper: SECOND PROJECT [**IronFeeds**](https://github.com/IronFeeds/Ironfeeds)
  
      <span><p>HTML5 | CSS3 | JavaScript | Express.js | Node.js | MongoDB | GOOGLE API | HBS | Bootstrap v5.0 | Mongoose</p></span>
- 
-     <span><p>IronFeed is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation.</p></span>
-     <br>
