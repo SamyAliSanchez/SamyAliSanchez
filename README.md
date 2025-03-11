@@ -17,9 +17,8 @@ Welcome to my github profile:
 
 <div align="center">
 
-<a href="https://github.com/TheMineWay">
+<a href="https://github.com/SamyAliSanchez">
 
-[![SamyAliSanchez's GitHub stats]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyAliSanchez&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
 
 </a>
