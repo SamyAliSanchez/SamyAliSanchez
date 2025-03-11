@@ -22,6 +22,7 @@ Welcome to my github profile:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyAliSanchez&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
 
 </a>
+</div>
 
 <br>
 
