@@ -30,7 +30,7 @@ Welcome to my github profile:
 
 ## 🤔 About me:
 
-<p align="center"> "Tech lover, surf, food enthusiast & passionate for animals. I embrace innovation by creating a culture of inclusiveness and social respect. My background: Software engineer banking and frontend developer. You are welcome to check my work out."</p>
+<p align="center"> "Passionate web developer with a strong background in both banking software engineering and frontend development. I thrive on creating innovative and user-centric solutions while promoting inclusivity and social respect in the tech community. When I'm not coding, you can find me exploring the waves, enjoying delicious food, or spending time with animals. Always eager to collaborate and share ideas—feel free to explore my work and reach out!"</p>
 <br>
 
 - 📫 How to reach me: ...
