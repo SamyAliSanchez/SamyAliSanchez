@@ -53,6 +53,8 @@ Always eager to collaborate and share ideas—feel free to explore my work and r
       
 ## 💬 Projects I've worked recently:
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=react-project-management&theme=catppuccin_mocha)](https://github.com/TheMineWay/statenet)
+
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Sharelicious**](https://ironhack-sharelicious-client.herokuapp.com/)
 
      <span><p>Client: [sharelicious-client](https://github.com/SamyAliSanchez/Project3-client)</p></span>
