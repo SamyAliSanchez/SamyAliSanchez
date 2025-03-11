@@ -9,7 +9,7 @@ Welcome to my github profile:
 
 ## 🤔 About me:
 
-<p align="center"> "Tech lover, surf, food enthusiast & passionate for animals. I embrace innovation by creating a culture of inclusiveness and social respect.  Ready to dive into Web Developement World. My background: developer software banking and bartender. My moment: achive more knowleadge & experience in this field. My goal: I have many... but to become part of devs comunity is one of them. You are welcome to check my work out."</p>
+<p align="center"> "Tech lover, surf, food enthusiast & passionate for animals. I embrace innovation by creating a culture of inclusiveness and social respect.  Ready to dive into Web Developement World. My background: Software engineer banking and frontend developer. My moment: achive more knowleadge & experience in this field. You are welcome to check my work out."</p>
 <br>
 
 - 📫 How to reach me: ...
