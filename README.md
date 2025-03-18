@@ -19,7 +19,7 @@ Welcome to my github profile:
 
 <a href="https://github.com/SamyAliSanchez">
 
-[![SamyAliSanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyAliSanchez&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true)](https://github.com/SamyAliSanchez)
+[![SamyAliSanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamyAliSanchez&show_icons=true&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyAliSanchez&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
 
 </a>
