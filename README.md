@@ -30,8 +30,13 @@ Welcome to my github profile:
 
 ## 🤔 About me:
 
-<p> "Passionate web developer with a strong background in both banking software engineering and frontend development. I thrive on creating innovative and user-centric solutions while promoting inclusivity and social respect in the tech community. When I'm not coding, you can find me exploring the waves, enjoying delicious food, or spending time with animals. 
-Always eager to collaborate and share ideas—feel free to explore my work and reach out!"</p>
+<p> "Full-Stack Developer experienced with React, TypeScript, Node.js, and modern web architectures. I enjoy building scalable, user-focused applications and working in Agile environments.
+
+I began my career in banking tech, but realized I wanted more dynamic and product-focused work. I moved to Australia to improve my English and gain international experience. When I returned, I completed a Full-Stack bootcamp at Ironhack to update my skills, and thanks to my performance, I was hired as a Teaching Assistant, supporting students and projects.
+
+Since then, I’ve been working as a full-stack developer, currently at Decathlon Digital.
+
+Always learning, improving, and building clean, high-quality solutions."</p>
 <br>
 
 - 📫 How to reach me: ...
