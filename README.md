@@ -60,7 +60,7 @@ Always learning, improving, and building clean, high-quality solutions."</p>
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SamyAliSanchez&repo=binpar-pokedex&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/binpar-pokedex)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=portfolio&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/portfolio)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=analysta-project&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/analysta-project)
+  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SamyAliSanchez&repo=analysta-project&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/analysta-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=react-project-management&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/react-project-management)
 
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Sharelicious**](https://ironhack-sharelicious-client.herokuapp.com/)
