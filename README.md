@@ -20,7 +20,7 @@ Welcome to my github profile:
 <a href="https://github.com/SamyAliSanchez">
 
 [![SamyAliSanchez GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SamyAliSanchez&show_icons=true&theme=dark)](https://github.com/SamyAliSanchez)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyAliSanchez&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SamyAliSanchez&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez)
 
 </a>
 
@@ -59,9 +59,9 @@ Always learning, improving, and building clean, high-quality solutions."</p>
 ## 💬 Projects I've worked recently:
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SamyAliSanchez&repo=binpar-pokedex&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/binpar-pokedex)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=portfolio&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/portfolio)
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SamyAliSanchez&repo=analysta-project&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/analysta-project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=react-project-management&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/react-project-management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=portfolio&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamyAliSanchez&repo=react-project-management&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/react-project-management)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SamyAliSanchez&repo=analysta-project&theme=catppuccin_mocha)](https://github.com/SamyAliSanchez/analysta-project)
 
 - :heavy_check_mark: FINAL BOOTCAMP PROJECT (Selected to hackshow) [**Sharelicious**](https://ironhack-sharelicious-client.herokuapp.com/)
 
