@@ -30,13 +30,13 @@ Welcome to my github profile:
 
 ## 🤔 About me:
 
-<p> "Full-Stack Developer experienced with React, TypeScript, Node.js, and modern web architectures. I enjoy building scalable, user-focused applications and working in Agile environments.
+<p> Full-Stack Developer experienced with React, TypeScript, Node.js, and modern web architectures. I enjoy building scalable, user-focused applications and working in Agile environments.
 
 I began my career in banking tech, but realized I wanted more dynamic and product-focused work. I moved to Australia to improve my English and gain international experience. When I returned, I completed a Full-Stack bootcamp at Ironhack to update my skills, and thanks to my performance, I was hired as a Teaching Assistant, supporting students and projects.
 
 Since then, I’ve been working as a full-stack developer, currently at Decathlon Digital.
 
-Always learning, improving, and building clean, high-quality solutions."</p>
+Always learning, improving, and building clean, high-quality solutions.</p>
 <br>
 
 - 📫 How to reach me: ...
